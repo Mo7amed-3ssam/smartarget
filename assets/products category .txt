@@ -1,0 +1,13 @@
+products categories in Arabic :
+
+الاكواب ( اكواب ورقية , اكواب بلاستيكية , اكواب زجاجية  (كولد برو) , مقات ستيل )
+العلب ( علب الحلى , علب الجمعات , علب البودينغ , علب البرجر , علب ورقية )
+الأكياس ( أكياس ورقية , أكياس ورق مقوى , أكياس البن )
+الملحقات ( ورق زبدة , ملاعق وشوك وسكاكين مغلفة , مصاص مغلف , حاملات أكواب , طباعة مناديل , اغطية , بوكسات القهوة )
+
+products categories in English : 
+
+Cups (paper cups, plastic cups, glass cups (cold brew), steel cups)
+Boxes (dessert boxes, party boxes, pudding boxes, burger boxes, paper boxes)
+Bags (paper bags, cardboard bags, coffee bags)
+Accessories (parchment paper, coated spoons, forks, and knives, coated straws, cup holders, printed napkins, lids, coffee boxes)

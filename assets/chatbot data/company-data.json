@@ -1,0 +1,164 @@
+{
+  "company": {
+    "name": {
+      "ar": "سمارت تارقت",
+      "en": "smar target"
+    },
+    "tagline": {
+      "ar": "لمسة مرتبة وأنيقة",
+      "en": "Organized and elegant touch"
+    },
+    "description": {
+      "ar": "نحن الرواد في توريد المواد الاستهلاكية للمقاهي والمطاعم عبر المملكة العربية السعودية، نوفّر لكم كل ما تحتاجونه من كؤوس، علب، أكياس، ومستلزمات بجودة استثنائية وأسعار منافسة",
+      "en": "We are the leading supplier of consumer goods to cafes and restaurants across Saudi Arabia. We provide everything you need from cups, cans, bags, and supplies with exceptional quality and competitive prices"
+    },
+    "location": {
+      "ar": "الرياض، المملكة العربية السعودية",
+      "en": "Riyadh, Saudi Arabia"
+    },
+    "phone": "+966554748254",
+    "email": "info@smar-target.com",
+    "website": "www.smar-target.com",
+    "whatsapp": "+966554748254"
+  },
+  "products": {
+    "cups": {
+      "name": {
+        "ar": "الأكواب",
+        "en": "Cups"
+      },
+      "description": {
+        "ar": "أكواب قهوة وبارد بأحجام وألوان كثيرة، مصنوعة من مواد عالية الجودة ومناسبة للمقاهي والمطاعم",
+        "en": "Hot and cold cups in various sizes and colors, made from high-quality materials suitable for cafes and restaurants"
+      },
+      "features": {
+        "ar": ["أحجام متعددة", "ألوان متنوعة", "مواد آمنة", "تصميم عصري"],
+        "en": ["Multiple sizes", "Various colors", "Safe materials", "Modern design"]
+      }
+    },
+    "boxes": {
+      "name": {
+        "ar": "العلب",
+        "en": "Boxes"
+      },
+      "description": {
+        "ar": "علب مشروبات وعصير بأشكال متنوعة، مقاومة للحرارة ومناسبة للتعبئة والتغليف",
+        "en": "Drink and juice boxes in various shapes, heat-resistant and suitable for packaging"
+      },
+      "features": {
+        "ar": ["مقاومة للحرارة", "أشكال متنوعة", "سهلة الاستخدام", "جودة عالية"],
+        "en": ["Heat resistant", "Various shapes", "Easy to use", "High quality"]
+      }
+    },
+    "bags": {
+      "name": {
+        "ar": "الأكياس",
+        "en": "Bags"
+      },
+      "description": {
+        "ar": "أكياس أكل سهلة وأنيقة، مصنوعة من مواد صديقة للبيئة ومناسبة للاستخدام اليومي",
+        "en": "Easy and elegant food bags, made from eco-friendly materials suitable for daily use"
+      },
+      "features": {
+        "ar": ["صديقة للبيئة", "قوية ومتينة", "تصاميم أنيقة", "أحجام متنوعة"],
+        "en": ["Eco-friendly", "Strong and durable", "Elegant designs", "Various sizes"]
+      }
+    },
+    "accessories": {
+      "name": {
+        "ar": "الملحقات",
+        "en": "Accessories"
+      },
+      "description": {
+        "ar": "ملاعق، مناديل، أغطية وكل ما تحتاج من مستلزمات المطاعم والمقاهي",
+        "en": "Spoons, napkins, lids and everything you need for restaurants and cafes"
+      },
+      "features": {
+        "ar": ["مستلزمات شاملة", "جودة عالية", "أسعار منافسة", "توصيل سريع"],
+        "en": ["Comprehensive supplies", "High quality", "Competitive prices", "Fast delivery"]
+      }
+    }
+  },
+  "services": {
+    "delivery": {
+      "ar": "توصيل سريع لجميع مناطق المملكة",
+      "en": "Fast delivery to all regions of the Kingdom"
+    },
+    "quality": {
+      "ar": "جودة لا تُضاهى مع ضمان الجودة",
+      "en": "Unmatched quality with quality guarantee"
+    },
+    "support": {
+      "ar": "خدمة عملاء على مدار الساعة",
+      "en": "24/7 customer service"
+    },
+    "pricing": {
+      "ar": "أسعار منافسة ومناسبة للجميع",
+      "en": "Competitive and affordable prices for everyone"
+    }
+  },
+  "faq": {
+    "delivery_time": {
+      "question": {
+        "ar": "كم يستغرق التوصيل؟",
+        "en": "How long does delivery take?"
+      },
+      "answer": {
+        "ar": "نوصل في جميع أنحاء المملكة خلال 24-48 ساعة حسب المنطقة",
+        "en": "We deliver throughout the Kingdom within 24-48 hours depending on the area"
+      }
+    },
+    "minimum_order": {
+      "question": {
+        "ar": "ما هو الحد الأدنى للطلب؟",
+        "en": "What is the minimum order?"
+      },
+      "answer": {
+        "ar": "لا يوجد حد أدنى للطلب، نوصل حتى أصغر الكميات",
+        "en": "There is no minimum order, we deliver even the smallest quantities"
+      }
+    },
+    "payment": {
+      "question": {
+        "ar": "ما هي طرق الدفع المتاحة؟",
+        "en": "What payment methods are available?"
+      },
+      "answer": {
+        "ar": "نقبل الدفع نقداً عند الاستلام، التحويل البنكي، والدفع الإلكتروني",
+        "en": "We accept cash on delivery, bank transfer, and electronic payment"
+      }
+    },
+    "quality_guarantee": {
+      "question": {
+        "ar": "هل لديكم ضمان على المنتجات؟",
+        "en": "Do you have a warranty on products?"
+      },
+      "answer": {
+        "ar": "نعم، جميع منتجاتنا مضمونة الجودة ونستبدل أي منتج معيب",
+        "en": "Yes, all our products are quality guaranteed and we replace any defective product"
+      }
+    }
+  },
+  "working_hours": {
+    "ar": "نعمل من السبت إلى الخميس من 8 صباحاً إلى 6 مساءً",
+    "en": "We work from Saturday to Thursday from 8 AM to 6 PM"
+  },
+  "contact_info": {
+    "phone": {
+      "ar": "اتصل بنا: +966554748254",
+      "en": "Call us: +966554748254"
+    },
+    "whatsapp": {
+      "ar": "تواصل معنا عبر واتساب: +966554748254",
+      "en": "Contact us via WhatsApp: +966554748254"
+    },
+    "email": {
+      "ar": "راسلنا: info@smar-target.com",
+      "en": "Email us: info@smar-target.com"
+    },
+    "location": {
+      "ar": "موقعنا: الرياض، المملكة العربية السعودية",
+      "en": "Our location: Riyadh, Saudi Arabia"
+    }
+  }
+}

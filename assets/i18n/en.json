@@ -1,0 +1,531 @@
+{
+  "loading": "Loading...",
+  "brand": "smar target",
+  "to_top": "Back to Top",
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "contact": "Contact",
+    "products_cups": "Cups",
+    "products_cans": "Boxes",
+    "products_bags": "Bags",
+    "products_accessories": "Accessories",
+    "language": "Language",
+    "arabic": "العربية",
+    "english": "English"
+  },
+  "home": {
+    "hero": {
+      "title": "Welcome to smar target",
+      "subtitle": "Your Perfect Partner in Cafe & Restaurant Supply",
+      "description": "We are the leading supplier of consumer goods to cafes and restaurants across the Kingdom. We provide everything you need from cups, cans, bags, and supplies with exceptional quality and competitive prices",
+      "cta_primary": "Browse Our Products",
+      "cta_secondary": "Learn More About Us"
+    },
+    "features": {
+      "title": "Why Choose smar target?",
+      "quality": {
+        "title": "Unmatched Quality",
+        "description": "All our products are manufactured to the highest international standards under strict quality control to ensure superior quality"
+      },
+      "innovation": {
+        "title": "Innovative Solutions",
+        "description": "We continuously innovate and develop our products to keep pace with the latest developments in the restaurant and cafe industry"
+      },
+      "service": {
+        "title": "Outstanding Customer Service",
+        "description": "A team of specialized experts ready to serve you around the clock and meet all your needs"
+      },
+      "delivery": {
+        "title": "Express Delivery",
+        "description": "Fast and reliable delivery network covering all regions of the Kingdom with guaranteed on-time arrival"
+      }
+    },
+    "products": {
+      "title": "Our Premium Collection",
+      "subtitle": "A comprehensive range of the finest consumer goods for cafes and restaurants",
+      "view_all": "View Complete Collection",
+      "categories": {
+        "cups": {
+          "title": "Cups & Mugs",
+          "description": "Wide range of paper and plastic cups in various sizes and designs for coffee, hot and cold beverages"
+        },
+        "boxes": {
+          "title": "Beverage boxes",
+          "description": "Diverse metal and plastic boxes for soft drinks, juices, and energy drinks in different sizes"
+        },
+        "bags": {
+          "title": "Food Bags",
+          "description": "Eco-friendly paper and plastic bags for fast food and takeaway with elegant and practical designs"
+        },
+        "accessories": {
+          "title": "Restaurant Supplies",
+          "description": "Complete supplies including tableware, napkins, lids, and accessories needed to run your restaurant efficiently"
+        }
+      }
+    },
+    "stats": {
+      "clients": "Cafes & Restaurants Trust Us",
+      "products": "Available Items",
+      "years": "Years of Service",
+      "delivery": "Cities We Deliver To"
+    },
+    "clients": {
+      "title": "Our Valued Clients",
+      "subtitle": "We are proud to serve a diverse range of distinguished cafes and restaurants across the Kingdom",
+      "trusted": "Trusted Clients",
+      "quality": "Quality Guaranteed",
+      "partnership": "Long-term Partnership"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "About Us",
+      "subtitle": "smar target - Leading Supplier of Consumer Goods",
+      "description": "We are a Saudi company specialized in supplying high-quality consumer goods to cafes and restaurants throughout the Kingdom"
+    },
+    "story": {
+      "title": "Our Story",
+      "content": "Our journey began with a clear vision: to be the trusted partner for cafes and restaurants in the Kingdom of Saudi Arabia. Since our establishment, we have committed to providing high-quality products and exceptional service that meets the diverse needs of our clients.",
+      "mission": "Our Mission",
+      "mission_text": "We strive to be the first choice in supplying consumer goods to cafes and restaurants, by providing innovative products and outstanding services that contribute to our partners' success.",
+      "vision": "Our Vision",
+      "vision_text": "To become the leading company in consumer goods supply in the region, and contribute to the development of the restaurant and cafe sector through our innovative solutions."
+    },
+    "values": {
+      "title": "Our Values",
+      "quality": {
+        "title": "Quality",
+        "description": "We commit to the highest quality standards in all our products and services"
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "We continuously strive to develop innovative solutions that meet our customers' needs"
+      },
+      "trust": {
+        "title": "Trust",
+        "description": "We build long-term relationships with our clients based on trust and transparency"
+      },
+      "sustainability": {
+        "title": "Sustainability",
+        "description": "We care about the environment and provide eco-friendly products whenever possible"
+      }
+    },
+    "team": {
+      "title": "Our Team",
+      "subtitle": "Specialized experts serving our clients",
+      "description": "Our team includes a select group of specialists with extensive experience in consumer goods supply, who work passionately to provide the best services to our clients."
+    },
+    "achievements": {
+      "title": "Our Achievements",
+      "years_experience": "Years of Experience",
+      "satisfied_clients": "Satisfied Clients",
+      "products_delivered": "Products Delivered",
+      "cities_covered": "Cities We Serve"
+    },
+    "contact_cta": {
+      "title": "Start Your Journey With Us",
+      "description": "Join hundreds of cafes and restaurants that trust our services",
+      "contact_button": "Contact Us Now",
+      "products_button": "Browse Our Products"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "We're here to serve you 24/7",
+      "description": "Reach out to us for any inquiry or request, our team is ready to provide the best solutions for your business"
+    },
+    "form": {
+      "title": "Send Us a Message",
+      "name": "Full Name",
+      "name_placeholder": "Enter your full name",
+      "email": "Email Address",
+      "email_placeholder": "Enter your email address",
+      "phone": "Phone Number",
+      "phone_placeholder": "Enter your phone number",
+      "business_type": "Business Type",
+      "business_placeholder": "Select your business type",
+      "business_options": {
+        "cafe": "Cafe",
+        "restaurant": "Restaurant",
+        "fast_food": "Fast Food",
+        "catering": "Catering",
+        "other": "Other"
+      },
+      "message": "Message",
+      "message_placeholder": "Tell us about your needs or inquiries",
+      "submit": "Send",
+      "required_fields": "All fields are required"
+    },
+    "info": {
+      "title": "Contact Information",
+      "address": "Address",
+      "address_text": "Riyadh, Saudi Arabia",
+      "phone": "Phone",
+      "whatsapp": "WhatsApp",
+      "email": "Email",
+      "email_address": "info@smartarget.sa",
+      "working_hours": "Working Hours",
+      "hours_text": "Sunday - Thursday: 8:00 AM - 6:00 PM",
+      "friday_hours": "Friday: 2:00 PM - 6:00 PM",
+      "saturday_closed": "Saturday: Closed"
+    },
+    "social": {
+      "title": "Follow Us on Social Media",
+      "subtitle": "Stay updated with our latest products and special offers"
+    },
+    "location": {
+      "title": "Our Location",
+      "description": "Visit our headquarters in Riyadh to see our products and speak with our team directly"
+    },
+    "quick_contact": {
+      "title": "Quick Contact",
+      "call_us": "Call Us",
+      "whatsapp_us": "WhatsApp Us",
+      "email_us": "Send Email"
+    }
+  },
+  "products": {
+    "title": "Our Premium Products",
+    "subtitle": "A comprehensive range of the finest consumer goods for cafes and restaurants",
+    "description": "Discover our wide range of high-quality products specifically designed to meet the needs of cafes and restaurants",
+    "categories_title": "Product Categories",
+    "categories_subtitle": "Choose the category that interests you and explore our diverse products",
+    "contact_us": "Contact Us",
+    "cta_title": "Looking for Custom Products?",
+    "cta_description": "Our team is ready to help you choose the best products that suit your needs",
+    "view_categories": "View Categories",
+    "view_products": "View Products",
+    "view_details": "View Details",
+    "back_to_categories": "Back to Categories",
+    "learn_more": "Learn More",
+    "breadcrumb": {
+      "categories": "Categories"
+    },
+    "hero": {
+      "title": "Our Premium Products",
+      "subtitle": "A comprehensive range of the finest consumer goods for cafes and restaurants",
+      "description": "Discover our wide range of high-quality products specifically designed to meet the needs of cafes and restaurants"
+    },
+    "categories": {
+      "cups": {
+        "title": "Cups",
+        "description": "Wide range of cups in different materials and sizes",
+        "subcategories": {
+          "paper_cups": {
+            "title": "Paper Cups",
+            "description": "Eco-friendly paper cups for coffee and hot beverages"
+          },
+          "plastic_cups": {
+            "title": "Plastic Cups",
+            "description": "Durable plastic cups for cold and hot beverages"
+          },
+          "glass_cups": {
+            "title": "Glass Cups (Cold Brew)",
+            "description": "Elegant glass cups for cold beverages and juices"
+          },
+          "steel_cups": {
+            "title": "Steel Cups",
+            "description": "Precise stainless steel measuring cups for kitchens"
+          }
+        }
+      },
+      "boxes": {
+        "title": "Boxes",
+        "description": "Various boxes for food and desserts",
+        "subcategories": {
+          "dessert_boxes": {
+            "title": "Dessert Boxes",
+            "description": "Elegant boxes for desserts and pastries"
+          },
+          "party_boxes": {
+            "title": "Party Boxes",
+            "description": "Large boxes for group meals and events"
+          },
+          "pudding_boxes": {
+            "title": "Pudding Boxes",
+            "description": "Specialized boxes for desserts and pudding"
+          },
+          "burger_boxes": {
+            "title": "Burger Boxes",
+            "description": "Sealed boxes for burgers and fast food"
+          },
+          "paper_boxes": {
+            "title": "Paper Boxes",
+            "description": "Eco-friendly paper boxes"
+          },
+          "takeaway_boxes": {
+            "title": "Takeaway Boxes",
+            "description": "Secure closure boxes for ready meals"
+          }
+        }
+      },
+      "bags": {
+        "title": "Bags",
+        "description": "Various bags for food and packaging",
+        "subcategories": {
+          "paper_bags": {
+            "title": "Paper Bags",
+            "description": "Eco-friendly paper bags for meals"
+          },
+          "cardboard_bags": {
+            "title": "Cardboard Bags",
+            "description": "Durable cardboard bags for heavy packaging"
+          },
+          "coffee_bags": {
+            "title": "Coffee Bags",
+            "description": "Specialized bags for coffee packaging"
+          },
+          "carry_bags": {
+            "title": "Carry Bags",
+            "description": "Durable bags for carrying products and meals"
+          }
+        }
+      },
+      "accessories": {
+        "title": "Accessories",
+        "description": "Comprehensive supplies for restaurants and cafes",
+        "subcategories": {
+          "parchment_paper": {
+            "title": "Parchment Paper",
+            "description": "High-quality parchment paper for baking and cooking"
+          },
+          "cutlery": {
+            "title": "Coated Spoons, Forks, and Knives",
+            "description": "Individually wrapped tableware for hygiene"
+          },
+          "straws": {
+            "title": "Coated Straws",
+            "description": "Paper and cardboard straws for beverages"
+          },
+          "cup_holders": {
+            "title": "Cup Holders",
+            "description": "Heat-resistant holders for hot cups"
+          },
+          "napkins": {
+            "title": "Printed Napkins",
+            "description": "Napkins printed with restaurant logos"
+          },
+          "lids": {
+            "title": "Lids",
+            "description": "Various lids for cups and boxes"
+          },
+          "coffee_boxes": {
+            "title": "Coffee Boxes",
+            "description": "Storage and packaging boxes for coffee"
+          }
+        }
+      }
+    },
+    "filters": {
+      "title": "Filter Products",
+      "category": "Category",
+      "material": "Material",
+      "size": "Size",
+      "price": "Price",
+      "clear_filters": "Clear Filters",
+      "sort_by": "Sort By",
+      "sort_options": {
+        "name_asc": "Name (A-Z)",
+        "name_desc": "Name (Z-A)",
+        "price_asc": "Price (Low-High)",
+        "price_desc": "Price (High-Low)",
+        "newest": "Newest",
+        "popular": "Most Popular"
+      }
+    },
+    "product_details": {
+      "description": "Description",
+      "specifications": "Specifications",
+      "materials": "Materials",
+      "sizes": "Sizes",
+      "colors": "Colors",
+      "quantity": "Quantity",
+      "add_to_cart": "Add to Cart",
+      "contact_for_quote": "Contact for Quote",
+      "related_products": "Related Products",
+      "product_gallery": "Product Gallery"
+    },
+    "cart": {
+      "title": "Shopping Cart",
+      "empty": "Shopping cart is empty",
+      "item": "item",
+      "items": "items",
+      "quantity": "Quantity",
+      "price": "Price",
+      "total": "Total",
+      "remove": "Remove",
+      "checkout": "Checkout",
+      "continue_shopping": "Continue Shopping"
+    },
+    "quote": {
+      "title": "Request Quote",
+      "subtitle": "Get the best prices for our products",
+      "business_name": "Business Name",
+      "business_type": "Business Type",
+      "contact_person": "Contact Person",
+      "phone": "Phone Number",
+      "email": "Email Address",
+      "products_needed": "Products Needed",
+      "quantity": "Required Quantity",
+      "delivery_location": "Delivery Location",
+      "additional_notes": "Additional Notes",
+      "submit_quote": "Submit Quote Request",
+      "success_message": "Quote request sent successfully! We will contact you soon."
+    }
+  },
+  "footer": {
+    "site_pages": {
+      "title": "Quick Links",
+      "home": "Home",
+      "about": "About Us",
+      "contact": "Contact Us"
+    },
+    "products": {
+      "title": "Our Products",
+      "cups": "Cups",
+      "boxes": "Boxes",
+      "bags": "Bags",
+      "accessories": "Accessories"
+    },
+    "contact_info": {
+      "title": "Contact Information",
+      "location": "Riyadh, Saudi Arabia",
+      "phone": "+966554748254",
+      "email": "info@smartarget.sa",
+      "whatsapp": "WhatsApp"
+    },
+    "copyright": "All rights reserved",
+    "made_with": "Made with",
+    "by_target": "by smar target"
+  },
+  "product": {
+    "contact_us": "Contact Us",
+    "view_all_products": "View All Products",
+    "view_categories": "View Categories",
+    "view_products": "View Products",
+    "view_details": "View Details",
+    "back_to_categories": "Back to Categories",
+    "learn_more": "Learn More",
+    "category_products": {
+      "title": "Category Products",
+      "subtitle": "Discover all products in this category"
+    },
+    "no_products": {
+      "title": "No Products",
+      "description": "Sorry, no products are currently available in this category"
+    },
+    "details": {
+      "title": "Product Details",
+      "subtitle": "Discover features and technical specifications",
+      "description": "Description",
+      "features": "Features"
+    },
+    "specifications": {
+      "title": "Technical Specifications",
+      "subtitle": "Learn about the product's precise specifications"
+    },
+    "gallery": {
+      "title": "Product Gallery",
+      "subtitle": "Discover all product images from different angles"
+    },
+    "cta": {
+      "title": "Want to Know More?",
+      "description": "Contact us for pricing or inquiries about this product"
+    },
+    "suggestions": {
+      "badge": "Featured Suggestions",
+      "title": "Other Products You Might Like",
+      "subtitle": "Discover other products from the same category that might suit your needs",
+      "view_details": "View Details",
+      "view_all_category": "View All Category Products"
+    },
+    "specs": {
+      "capacity": {
+        "title": "Capacity",
+        "description": "Optimal capacity for use"
+      },
+      "material": {
+        "title": "Material",
+        "description": "Quality of materials used in manufacturing"
+      },
+      "temperature": {
+        "title": "Temperature",
+        "description": "Suitable temperature range"
+      },
+      "dimensions": {
+        "title": "Dimensions",
+        "description": "Detailed product measurements"
+      },
+      "length": {
+        "title": "Length",
+        "description": "Product length in centimeters"
+      },
+      "diameter": {
+        "title": "Diameter",
+        "description": "Product diameter in millimeters"
+      },
+      "thickness": {
+        "title": "Thickness",
+        "description": "Material thickness in micrometers"
+      },
+      "absorbency": {
+        "title": "Absorbency",
+        "description": "Liquid absorption rate"
+      }
+    },
+    "features": {
+      "eco_friendly": "Eco-Friendly",
+      "leak_proof": "Leak-Proof",
+      "microwave_safe": "Microwave Safe",
+      "sturdy": "Sturdy & Strong",
+      "stackable": "Stackable",
+      "reusable": "Reusable",
+      "strong": "Strong & Durable",
+      "biodegradable": "Biodegradable",
+      "safe": "Safe to Use",
+      "durable": "Durable & Long-lasting",
+      "crystal_clear": "Crystal Clear",
+      "soft": "Soft & Comfortable",
+      "absorbent": "Highly Absorbent"
+    }
+  },
+  "not_found": {
+    "title": "Page Not Found",
+    "description": "Sorry, the page you are looking for does not exist. The page may have been moved or deleted, or you may have mistyped the address.",
+    "go_home": "Go Home",
+    "go_back": "Go Back"
+  },
+  "chatbot": {
+    "welcome": "Hello! I am smar target's smart assistant. How can I help you today?",
+    "typing": "Typing...",
+    "placeholder": "Type your message here...",
+    "products": "Products",
+    "pricing": "Pricing",
+    "delivery": "Delivery",
+    "contact": "Contact",
+    "hours": "Working Hours",
+    "support": "Support",
+    "quick_replies": {
+      "products": "I want to know more about products",
+      "pricing": "What are the prices?",
+      "delivery": "When can you deliver?",
+      "contact": "How can I contact you?",
+      "hours": "What are your working hours?",
+      "support": "I need help"
+    }
+  },
+  "search": {
+    "title": "Search Products",
+    "search": "Search",
+    "placeholder": "Search for products...",
+    "clear": "Clear",
+    "results": "Results",
+    "no_results": "No Results Found",
+    "no_results_desc": "Sorry, we couldn't find any products matching your search. Try different keywords or browse our categories.",
+    "suggestions": "Search Suggestions",
+    "use_navbar": "Use the search button in the top navigation bar to search for products"
+  }
+}
